@@ -1,0 +1,2 @@
+# shrugbot
+bot for discord
